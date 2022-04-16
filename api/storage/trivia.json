@@ -1,0 +1,502 @@
+[
+  {
+    "Title": "What is the rarest M&M color?",
+    "options": [
+      "Red",
+      "Green",
+      "Yellow",
+      "Brown"
+    ],
+    "correct": 4
+  },
+  {
+    "Title": "In a website browser address bar, what does “www” stand for?",
+    "options": [
+      "World Wide Web",
+      "World Wide World",
+      "Web Web Web",
+      "World World Wide"
+    ],
+    "correct": 1
+  },
+  {
+    "Title": "Fissures, vents and plugs are all associated with which geological feature?",
+    "options": [
+      "Earthquakes",
+      "Volcanos",
+      "Hurricanes",
+      "Stroms"
+    ],
+    "correct": 2
+  },
+  {
+    "Title": "How many ribs are in a human body?",
+    "options": [
+      "Twenty-four",
+      "Eighty-seven",
+      "Sixty-nine",
+      "Twenty-one"
+    ],
+    "correct": 1
+  },
+  {
+    "Title": "What is the world’s biggest island?",
+    "options": [
+      "Hawai",
+      "Capri",
+      "Greenland",
+      "Mangaia"
+    ],
+    "correct": 3
+  },
+  {
+    "Title": "What is the smallest ocean in the world?",
+    "options": [
+      "The artic",
+      "Indian ocean",
+      "Pacific ocean",
+      "Southern Ocean"
+    ],
+    "correct": 1
+  },
+  {
+    "Title": "Which planet is the hottest in the solar system?",
+    "options": [
+      "Venus",
+      "Pluto",
+      "Mercury",
+      "Jupiter"
+    ],
+    "correct": 1
+  },
+  {
+    "Title": "How many hearts does an octopus have?",
+    "options": [
+      "Four",
+      "Eight",
+      "Three",
+      "Twelve"
+    ],
+    "correct": 3
+  },
+  {
+    "Title": "How many eyes does a bee have?",
+    "options": [
+      "Eight",
+      "Five",
+      "Twenty",
+      "Two"
+    ],
+    "correct": 2
+  },
+  {
+    "Title": "Which mammal has no vocal cords?",
+    "options": [
+      "Zebra",
+      "Giraffe",
+      "Sheep",
+      "Goat"
+    ],
+    "correct": 2
+  },
+  {
+    "Title": "The Statue of Liberty was given to the US by which country?",
+    "options": [
+      "Brazil",
+      "UK",
+      "France",
+      "Norway"
+    ],
+    "correct": 3
+  },
+  {
+    "Title": "What country has the world’s most ancient forest?",
+    "options": [
+      "Thailand",
+      "Russia",
+      "Sweden",
+      "Australia"
+    ],
+    "correct": 1
+  },
+  {
+    "Title": "What is the most common letter in the English alphabet?",
+    "options": [
+      "A",
+      "F",
+      "L",
+      "E"
+    ],
+    "correct": 4
+  },
+  {
+    "Title": "What is a community of ants called?",
+    "options": [
+      "an army",
+      "a colony",
+      "a group",
+      "a gang"
+    ],
+    "correct": 2
+  },
+  {
+    "Title": " What book starts with the line “Call me Ishmael.”?",
+    "options": [
+      "Moby Dick",
+      "Death on the nile",
+      "The last of the mohicans",
+      "Persuasion"
+    ],
+    "correct": 1
+  },
+  {
+    "Title": " What is the first element on the Periodic Table?",
+    "options": [
+      "Oxygen",
+      "Hydrogen",
+      "Nitrogen",
+      "Fe"
+    ],
+    "correct": 2
+  },
+  {
+    "Title": "How many red stripes are there on the American flag?",
+    "options": [
+      "Eight",
+      "Ten",
+      "Seven",
+      "Nine"
+    ],
+    "correct": 3
+  },
+  {
+    "Title": " What is the largest planet in our solar system?",
+    "options": [
+      "Pluto",
+      "Neptune",
+      "Jupiter",
+      "Pluto"
+    ],
+    "correct": 3
+  },
+  {
+    "Title": "What does a seismologist study?",
+    "options": [
+      "Earthquakes",
+      "Storms",
+      "Floods",
+      "Volcanos"
+    ],
+    "correct": 1
+  },
+  {
+    "Title": "Which country has a red flag with a star in the middle?",
+    "options": [
+      "Malaysia",
+      "Sweden",
+      "Norway",
+      "Morocco"
+    ],
+    "correct": 4
+  },
+  {
+    "Title": "Squab is a name given to the young of which bird?",
+    "options": [
+      "Penguin",
+      "Pigeon",
+      "Huming Bird",
+      "Owl"
+    ],
+    "correct": 2
+  },
+  {
+    "Title": "In what country did carving jack o’ lanterns originate?",
+    "options": [
+      "Ireland",
+      "Lebanon",
+      "Egypt",
+      "USA"
+    ],
+    "correct": 1
+  },
+  {
+    "Title": " In what American state is it illegal to dress up like a priest or a nun?",
+    "options": [
+      "Florida",
+      "Arizona",
+      "Alabama",
+      "New York"
+    ],
+    "correct": 3
+  },
+  {
+    "Title": "What vitamin does the sun’s ultraviolet rays help the skin produce?",
+    "options": [
+      "Vitamin A",
+      "vitamin F",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correct": 4
+  },
+  {
+    "Title": "What did the first vending machine dispense?",
+    "options": [
+      "Holy Water",
+      "Soda",
+      "Coffee",
+      "Cheese"
+    ],
+    "correct": 1
+  },
+  {
+    "Title": " Which insect can indicate the air temperature?",
+    "options": [
+      "ant",
+      "fly",
+      "beetle",
+      "cricket"
+    ],
+    "correct": 4
+  },
+  {
+    "Title": "How many soccer players should each team have on the field at the start of each match?",
+    "options": [
+      "11",
+      "12",
+      "15",
+      "10"
+    ],
+    "correct": 1
+  },
+  {
+    "Title": "What year was the very first model of the iPhone released?",
+    "options": [
+      "2010",
+      "2009",
+      "2007",
+      "2000"
+    ],
+    "correct": 3
+  },
+  {
+    "Title": "Is Java a type of OS?",
+    "options": [
+      "Yes",
+      "Possibly",
+      "idk im not smart",
+      "No"
+    ],
+    "correct": 4
+  },
+  {
+    "Title": "Which company owns Bugatti, Lamborghini. Audi, Porsche, and Ducati?",
+    "options": [
+      "Volkswagen",
+      "Toyota",
+      "Ford",
+      "Reanault"
+    ],
+    "correct": 1
+  },
+  {
+    "Title": "What is often seen as the smallest unit of memory?",
+    "options": [
+      "terabyte",
+      "gigabyte",
+      "kilobyte",
+      "megabyte"
+    ],
+    "correct": 3
+  },
+  {
+    "Title": "What name does deer meat go by?",
+    "options": [
+      "ham",
+      "venison",
+      "mouton",
+      "beef"
+    ],
+    "correct": 2
+  },
+  {
+    "Title": "Which country produces the most coffee in the world?",
+    "options": [
+      "Brazil",
+      "Germany",
+      "China",
+      "Ukraine"
+    ],
+    "correct": 1
+  },
+  {
+    "Title": "Which European nation was said to invent hot dogs?",
+    "options": [
+      "Norway",
+      "Sweden",
+      "Poland",
+      "Germany"
+    ],
+    "correct": 4
+  },
+  {
+    "Title": "Which organ has four chambers?",
+    "options": [
+      "Lungs",
+      "Heart",
+      "Liver",
+      "Brain"
+    ],
+    "correct": 2
+  },
+  {
+    "Title": "What is your body’s largest organ?",
+    "options": [
+      "Skin",
+      "Stomach",
+      "Kidneys",
+      "Thyroid"
+    ],
+    "correct": 1
+  },
+  {
+    "Title": "About how many taste buds does the average human tongue have?",
+    "options": [
+      "6000",
+      "7000",
+      "10000",
+      "4000"
+    ],
+    "correct": 3
+  },
+  {
+    "Title": "Which Avenger is the only one who could calm the Hulk down?",
+    "options": [
+      "Iron Man",
+      "Black Widow",
+      "Thor",
+      "Captain America"
+    ],
+    "correct": 2
+  },
+  {
+    "Title": "What is the name of Batman’s butler?",
+    "options": [
+      "Robin",
+      "Cyborg",
+      "Super Man",
+      "Alfred"
+    ],
+    "correct": 4
+  },
+  {
+    "Title": "Which American state is the largest (by area)?",
+    "options": [
+      "New Orleans",
+      "Indiana",
+      "Alaska",
+      "Florida"
+    ],
+    "correct": 3
+  },
+  {
+    "Title": "Tercel is the name for the male of which animal?",
+    "options": [
+      "Cat",
+      "Dog",
+      "Hawk",
+      "Deer"
+    ],
+    "correct": 3
+  },
+  {
+    "Title": "Guatemala is located on which continent?",
+    "options": [
+      "Africa",
+      "North America",
+      "Asia",
+      "Europe"
+    ],
+    "correct": 2
+  },
+  {
+    "Title": "How many all-island counties are there in Ireland?",
+    "options": [
+      "30",
+      "40",
+      "32",
+      "33"
+    ],
+    "correct": 3
+  },
+  {
+    "Title": "What country won the very first FIFA World Cup in 1930?",
+    "options": [
+      "Uruguay",
+      "France",
+      "UK",
+      "Poland"
+    ],
+    "correct": 1
+  },
+  {
+    "Title": "Which boxer was known as “The Greatest” and “The People’s Champion”?",
+    "options": [
+      "John Cena",
+      "Joe Louis",
+      "Mike Tyson",
+      "Mohamed Ali"
+    ],
+    "correct": 4
+  },
+  {
+    "Title": "Which star is at the center of our Solar System?",
+    "options": [
+      "Sun",
+      "Pluto",
+      "Neptune",
+      "Mars"
+    ],
+    "correct": 1
+  },
+  {
+    "Title": "What is the diameter of Sun?",
+    "options": [
+      "1,399,685 KM",
+      "1,392,684 KM",
+      "1,380,658 KM",
+      "1,390,678 KM"
+    ],
+    "correct": 2
+  },
+  {
+    "Title": "How much time does sun rays take to reach earth?",
+    "options": [
+      "5 minutes",
+      "6 minutes",
+      "7 minutes",
+      "8 minutes"
+    ],
+    "correct": 4
+  },
+  {
+    "Title": "Which planet is nearest to the earth?",
+    "options": [
+      "Jupiter",
+      "Mars",
+      "Venus",
+      "Mercury"
+    ],
+    "correct": 4
+  },
+  {
+    "Title": "Which Planet Has the Most Moons?",
+    "options": [
+      "Earth",
+      "Jupiter",
+      "Mercury",
+      "Neptune"
+    ],
+    "correct": 2
+  }
+]

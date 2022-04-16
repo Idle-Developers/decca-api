@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="../public/style.css">
+	<meta content="Decca API Demo" property="og:title">
+	<meta content="https://cdn.discordapp.com/emojis/789052095307186207.gif?v=1" property="og:image">
+	<meta content="Demo site for testing the Decca API"
+	 property="og:description">
+	<meta content="https://api.deccadev.repl.co/demo" property="og:url">
+	<meta content="#fcc603" data-react-helmet="true" name="theme-color">
+	<title>Image Hub</title>
+	<link rel="icon" href="../public/images/favicon.png" type="image/png">
+</head>
+
+<body>
+	<div class="main">
+		<h1>Hi</h1>
+		<br>
+        <label for="type">Select an endpoint:</label>
+        <select name="type" id="types" required>
+            <optgroup label="Endpoints">
+                <option value="drip">Drip</option>
+                <option value="bonk">Bonk</option>
+                <option value="brain">Big brain</option>
+                <option value="circle">Circle</option>
+                <option value="pixel">Pixelate</option>
+                <option value="makememe">Make meme</option>
+            </optgroup>
+        </select>
+        <br>
+        <br>
+        <button id="ok" onclick="ok()">Ok</button>
+        <br>
+        <br>
+        <div id="params"></div>
+        <br>
+        <input type="url" id="imageUrl" placeholder="Paste an image URL">
+        <br>
+        <br>
+        <br>
+        <button id="yes" onclick="fetchApi()">Yes</button>
+        <br>
+        <br>
+        <div id="test"></div>
+        <img id="output" src="../public/assets/output.jpeg" width="300" height="300">
+        <br>
+        <a href="" id="download" download></a>
+    </div>
+    <script src="../public/app.js" defer></script>
+    <style>
+      body{
+        background-image: url('../public/assets/bg_vid.png');
+      }
+    </style>
+</body>
+</html>
